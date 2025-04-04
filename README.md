@@ -1,3 +1,3 @@
-# Kinside
+# Kinside Scaffold
 
-Production-ready SaaS for private school admissions.
+This is a starter project for Kinside SaaS.
